@@ -1,1 +1,1 @@
-print("ok budyd")
+print("ok")
